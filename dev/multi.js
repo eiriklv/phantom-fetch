@@ -1,7 +1,5 @@
 
-var Fetcher = require('phantom-fetch');
-
-var fetcher = new Fetcher();
+var fetcher = require('phantom-fetch');
 
 function pollingFunction() {
   return document.querySelector('title').innerHTML;

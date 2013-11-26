@@ -1,6 +1,6 @@
 {
   "name": "phantom-fetch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A wrapper for PhantomJS for simple data fetching",
   "keywords": ["phantom", "phantomjs"],
   "homepage": "https://github.com/danyshaanan/phantom-fetch",

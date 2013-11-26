@@ -1,0 +1,35 @@
+{
+  "name": "phantom-fetch",
+  "version": "0.0.0",
+  "description": "A wrapper for PhantomJS for simple data fetching",
+  "keywords": ["phantom", "phantomjs"],
+  "homepage": "https://github.com/danyshaanan/phantom-fetch",
+  "author": {
+    "name": "Dany Shaanan",
+    "email": "danyshaanan@gmail.com",
+    "url": "http://danyshaanan.com/"
+  },
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/danyshaanan/phantom-fetch/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danyshaanan/phantom-fetch.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/danyshaanan/phantom-fetch",
+    "email" : "danyshaanan@gmail.com"
+  },
+  "preferGlobal": false,
+  "main": "./lib/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "node-phantom": "*"
+  }
+}

@@ -26,9 +26,6 @@
   },
   "preferGlobal": false,
   "main": "./lib/main.js",
-  "scripts": {
-    "start": "node ."
-  },
   "dependencies": {
     "node-phantom": "*"
   }

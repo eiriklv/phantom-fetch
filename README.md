@@ -3,6 +3,9 @@ phantom-fetch
 
 'phantom-fetch' is a wrapper for PhantomJS for simple data fetching from the web.
 
+This is by no means production ready! It was meant mainly for hackish things. Beware!
+
+
 Installation
 -------------
 To install, type

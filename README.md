@@ -13,6 +13,7 @@ To install, type
 
 or add it to your ```package.json``` as a dependency.
 
+If installation fails, it's probably because of dependencies of socket.io. [See the fix on StackOverflow](http://stackoverflow.com/questions/16469086/npm-cant-install-socket-io).
 
 Usage
 -----------------
